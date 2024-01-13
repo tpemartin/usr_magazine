@@ -1,0 +1,41 @@
+{
+    "organizations": [
+        {
+            "name": "國立臺北大學高齡與社區研究中心",
+            "thumbnail": "https://yt3.googleusercontent.com/HgxMdRP2cRTRj5zYxlRmRqJWA0lDjrXr92LIE7uJm8ULKqNM_lj8DBti_pbPwhoRt-GewXny=s176-c-k-c0x00ffffff-no-rj",
+            "phone": "02-86741111 轉 67222、67224、67227",
+            "links": [
+                {
+                    "name": "youtube",
+                    "url": "https://www.youtube.com/@USR-qb6yr"
+                },
+                {
+                    "name": "facebook",
+                   "url": "https://www.facebook.com/CACSOCNTPU/" 
+                },
+                {
+                    "name": "medium",
+                    "url": "https://medium.com/usrsocntpu"
+                }
+            ]   
+        },
+        {
+            "name": "台灣鳶山社會實踐協會",
+            "thumbnail": "https://miro.medium.com/v2/resize:fill:48:48/1*IZmj0J_qf3JY9_z_ksp4PA.jpeg",
+            "email": "eaglemt2019@gmail.com",
+            "links": [
+                {
+                    "name": "medium",
+                    "url": "https://eaglemt2019.medium.com/"
+                }
+            ]               
+        },
+        {
+            "name": "國立臺北大學社科院USR計劃",
+            "thumbnail": "https://cdn-images-1.medium.com/v2/resize:fit:311/1*lCHwbG13FGWipP8TbvWk8w@2x.png",
+            "email": "",
+            "phone": "02-86741111 轉 67222、67224、67227",
+            "links": []
+        }
+    ]
+}
